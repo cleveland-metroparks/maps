@@ -34,7 +34,12 @@ body {
 }
 
 footer {
-    margin: 50px 0;
+    position:absolute;
+    bottom: 0px;
+    right:20px;
+    width:95%;
+    margin:0 auto;
+    text-align:center;
 }
 
 #main_logo{
@@ -186,4 +191,7 @@ padding-right:7px;
   display:inline-block;
 }
 
-
+footer {
+	
+	
+}
