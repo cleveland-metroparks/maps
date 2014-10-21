@@ -80,8 +80,24 @@ background-color:#ebebeb;
 
 
 
+.dropdown-menu {
+height:150px;
+overflow:auto;
+-webkit-box-shadow: -2px 3px 4px 0px rgba(50, 50, 50, 0.50);
+-moz-box-shadow:    -2px 3px 4px 0px rgba(50, 50, 50, 0.50);
+box-shadow:         -2px 3px 4px 0px rgba(50, 50, 50, 0.50);
+}
 
+.reservation-name:hover {
+background-color:#3879D9;
+color:#fff;
+}
 
+.dropdown-btn {
+-webkit-box-shadow: -2px 3px 4px 0px rgba(50, 50, 50, 0.50);
+-moz-box-shadow:    -2px 3px 4px 0px rgba(50, 50, 50, 0.50);
+box-shadow:         -2px 3px 4px 0px rgba(50, 50, 50, 0.50);
+}
 
 
 /* NAVIGATION BUTTON STYLES */
